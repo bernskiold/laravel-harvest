@@ -2,6 +2,15 @@
 
 All notable changes to `laravel-harvest` will be documented in this file.
 
+## 2.0.1 - 2026-11-20
+
+### What's Changed
+
+* Add PHP 8.5 and 8.6 support and drop Laravel 11 by @ErikBernskiold in https://github.com/bernskiold/laravel-harvest/pull/22
+* Make PHP 8.6 a required part of the test matrix by @ErikBernskiold in https://github.com/bernskiold/laravel-harvest/pull/23
+
+**Full Changelog**: https://github.com/bernskiold/laravel-harvest/compare/2.0.0...2.0.1
+
 ## 2.0.0 - 2026-04-25
 
 ### What's Changed
